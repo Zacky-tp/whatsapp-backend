@@ -1,0 +1,8 @@
+{
+  "widgets": [
+    {
+      "location": "client_card.view",
+      "url": "https://whatsapp-backend-ejgt.onrender.com/public/index.html"
+    }
+  ]
+}

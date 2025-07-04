@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "widget": {
+    "name": "WhatsApp Интеграция",
+    "description": "Интеграция WhatsApp с AmoCRM",
+    "short_description": "WhatsApp для Amo",
+    "installation": "https://whatsapp-backend-ejgt.onrender.com/public/index.html",
+    "location": {
+      "client_card": {
+        "view": "https://whatsapp-backend-ejgt.onrender.com/public/index.html"
+      }
+    }
+  }
+}
